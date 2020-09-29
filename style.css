@@ -1,0 +1,27 @@
+.btn {
+    background-color: #ff3f40;
+    color: white;
+    border-radius: 5px;
+}
+.card {
+    max-width: 300px;
+    height: 300px;
+    margin: 50px 20px;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: column;
+
+}
+.photo {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card_image {
+
+    max-width: 250px;
+    height: 125px;
+
+
+}
